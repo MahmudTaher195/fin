@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+ul,li,ol,a{
+    list-style-type: none;
+    text-decoration: none;
+
+}
+.conteiner{
+    width: 1120px;
+    margin: 0 auto;
+    
+}
