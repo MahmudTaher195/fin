@@ -1,35 +1,66 @@
-*{
+* {
     margin: 0 auto;
     box-sizing: border-box;
     padding: 0;
 
 }
-ul,li,ol,a{
+
+ul,
+li,
+ol,
+a {
     list-style-type: none;
     text-decoration: none;
 
 }
-.conteiner{
+
+.conteiner {
     width: 1120px;
     margin: 0 auto;
 
 }
-nav{
-    background-color:#1C1E53;
+
+nav {
+    background-color: #1C1E53;
     padding: 32px 0px 32px 0px;
-   
+
 }
-.nav_items{
+
+.nav_items {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.nav_list{
+
+.nav_list {
     display: flex;
     gap: 20px;
 }
-.nav_list li{
+
+.nav_list li {
     color: white;
     font-weight: 700;
 }
-tamim vai
+
+#id{
+    background-color: rgb(188, 206, 146);
+    height: 500px;
+    width: full;
+}
+
+.conteainer {
+    width: 1120PX;
+
+}
+h2{
+    font-size: 45px;
+    font-weight: 600;
+    font-family: open sans-serif;
+    padding: 295px 100px 230px 80px;
+}
+h1{
+    font-size: 85px;
+    font-weight: 700;
+    font-family: open sans-serif;
+
+}
