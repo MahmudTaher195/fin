@@ -220,7 +220,7 @@ span {
 }
 
 .skills_box {
-     
+
     display: flex;
     gap: 40px;
     margin: 0 auto;
@@ -254,7 +254,8 @@ span {
     line-height: 28px;
     color: #757575;
 }
-.section-heading{
+
+.section-heading {
     display: flex;
     padding-top: 20px;
     align-items: center;
@@ -262,7 +263,8 @@ span {
 
 
 }
-.resume-container{
+
+.resume-container {
     width: 71%;
     max-width: 1140px;
     margin: 113px auto 0;
@@ -270,22 +272,23 @@ span {
     align-items: center;
     gap: 24px;
 }
+
 .resume-container .section-title {
- font-size: 30px;
- color: #474747;
- margin-bottom: 30px;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
 }
 
-.resume-container hr{
+.resume-container hr {
     margin: 30px 0;
 }
 
-.resume-card{
+.resume-card {
     max-width: 511px;
     margin-right: 47px;
 }
 
-.resume-card .card-title{
+.resume-card .card-title {
     font-size: 25px;
 
 }
@@ -296,11 +299,41 @@ span {
     margin-bottom: 20px;
     color: #757575;
 }
+
 .resume-card .card-text {
     font-size: 16px;
     line-height: 28px;
     color: #757575;
 }
-.btn{
 
+.text-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px 0px 20px 0px;
+
+
+}
+
+.footer_itms {
+    padding-top: 113px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_left p {
+    width: 580px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icon img {
+    height: 20px;
+    width: 20px;
+}
+.footer_right{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
 }
