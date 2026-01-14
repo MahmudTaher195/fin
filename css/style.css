@@ -356,3 +356,13 @@ span {
     padding: 4px ;
 
 }
+.footer_btn{
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 15px;
+    width: 82px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+
+}
